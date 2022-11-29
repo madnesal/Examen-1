@@ -9,5 +9,16 @@ h1,h2,h3{
     color: pink;
 }
 li{
-    color: #ff0080;
+    color: #FFF8E7;
+}
+li p{
+    color: violet;
+    font-size: 20px;
+    
+}
+label {
+    color: #3e5f8a;
+}
+input {
+    color:#000000;
 }
