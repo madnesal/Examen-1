@@ -1,9 +1,19 @@
 body {
     background: #FFF8E7;
 }
+table tr th{
+    color: #50057E;
+    font-size: 20px;
+}
+table tr td {
+    color: #79558F;
+    font-size: 18px;
+}
+table, th, td, tr{
+    border: 1px solid black;
+}
 div {
     margin-left: 800px;
-    
 }
 h1,h2,h3{
     color: pink;
